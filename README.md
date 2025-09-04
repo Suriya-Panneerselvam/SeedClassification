@@ -1,9 +1,11 @@
 # SeedClassification
 
 🌾 Seed Classification Model
+
 This project provides a machine learning model built with a Decision Tree Classifier to identify the type of seed based on its geometric properties. The model is trained on a dataset containing seven key features, and the included Jupyter Notebook allows for both model training and interactive prediction.
 
 🧐 Overview
+
 The core of this project is a machine learning pipeline that takes the following seven features of a seed as input:
 
 Area
